@@ -4,9 +4,9 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='useful-lib',
+    name='useful_library',
     version='0.1',
-    scripts=['useful-lib'] ,
+    scripts=['useful_library'] ,
     author="Leo Gaunt",
     author_email="leogaunt05@outlook.com",
     description="A package containing scripts to help boost your python",
