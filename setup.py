@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='useful-lib',
      version='0.1',
-     scripts=['lib'] ,
+     scripts=['useful-lib'] ,
      author="Leo Gaunt",
      author_email="deepak.kumar.iet@gmail.com",
      description="A Docker and AWS utility package",
