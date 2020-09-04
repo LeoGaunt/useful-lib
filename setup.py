@@ -12,7 +12,7 @@ setuptools.setup(
     description="A package containing scripts to help boost your python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/LeoGaunt/useful-lib",
+    url="https://github.com/LeoGaunt/useful_library",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
