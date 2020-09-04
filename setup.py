@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='useful_library',
-    version='0.1.1',
+    version='0.1',
     scripts=['useful_library'] ,
     author="Leo Gaunt",
     author_email="leogaunt05@outlook.com",

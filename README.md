@@ -1,14 +1,14 @@
-# useful-lib
+# useful_library
 
 This is the github repository for useful-lib (a python library).
 
 The latest version can be found here:
 
-https://pypi.org/project/useful-lib/0.1/
+https://pypi.org/project/useful-library/0.1/
 
 To install this you can use:
 ```
-pip install useful-lib
+pip install useful-library
 ```
 
 Current Features include: 
