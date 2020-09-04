@@ -1,4 +1,4 @@
-# useful-lib
+# useful_library
 
 This is the github repository for useful-lib (a python library).
 
