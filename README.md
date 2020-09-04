@@ -1,6 +1,6 @@
 # useful_library
 
-This is the github repository for useful-lib (a python library).
+This is the github repository for useful_library (a python library).
 
 The latest version can be found here:
 
