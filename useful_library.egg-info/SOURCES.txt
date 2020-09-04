@@ -1,7 +1,0 @@
-README.md
-setup.py
-useful_library
-useful_library.egg-info/PKG-INFO
-useful_library.egg-info/SOURCES.txt
-useful_library.egg-info/dependency_links.txt
-useful_library.egg-info/top_level.txt

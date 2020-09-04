@@ -4,15 +4,15 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='useful_library',
-    version='0.1.1',
-    scripts=['useful_library'] ,
+    name='usefullibrary',
+    version='0.1.2',
+    scripts=['usefullibrary'] ,
     author="Leo Gaunt",
     author_email="leogaunt05@outlook.com",
     description="A package containing scripts to help boost your python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/LeoGaunt/useful_library",
+    url="https://github.com/LeoGaunt/usefullibrary",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

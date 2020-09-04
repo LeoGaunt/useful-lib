@@ -1,0 +1,7 @@
+README.md
+setup.py
+usefullibrary
+usefullibrary.egg-info/PKG-INFO
+usefullibrary.egg-info/SOURCES.txt
+usefullibrary.egg-info/dependency_links.txt
+usefullibrary.egg-info/top_level.txt
