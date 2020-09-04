@@ -1,0 +1,10 @@
+#useful-lib code
+
+import time
+import sys
+
+def lbl(value):
+    for x in value:
+        sys.stdout.write(x)
+        sys.stdout.flush()
+        time.sleep(0.1)

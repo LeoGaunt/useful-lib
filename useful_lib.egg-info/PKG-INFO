@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: useful-lib
+Version: 0.1
+Summary: A package containing scripts to help boost your python
+Home-page: https://github.com/LeoGaunt/useful-lib
+Author: Leo Gaunt
+Author-email: leogaunt05@outlook.com
+License: UNKNOWN
+Description: # useful-lib
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
