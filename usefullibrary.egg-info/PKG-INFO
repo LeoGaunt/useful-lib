@@ -2,21 +2,21 @@ Metadata-Version: 2.1
 Name: usefullibrary
 Version: 0.1.2
 Summary: A package containing scripts to help boost your python
-Home-page: https://github.com/LeoGaunt/useful_library
+Home-page: https://github.com/LeoGaunt/usefullibrary
 Author: Leo Gaunt
 Author-email: leogaunt05@outlook.com
 License: UNKNOWN
-Description: # useful_library
+Description: # usefullibrary
         
-        This is the github repository for useful_library (a python library).
+        This is the github repository for usefullibrary (a python library).
         
         The latest version can be found here:
         
-        https://pypi.org/project/useful_library/0.1.1/
+        https://pypi.org/project/usefullibrary/0.1.2/
         
         To install this you can use:
         ```
-        pip install useful_library
+        pip install usefullibrary
         ```
         
         Current Features include: 
